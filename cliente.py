@@ -56,5 +56,5 @@ if __name__ == '__main__':
     obtener_usuarios()
     buscar_usuario_por_id(1)
     buscar_usuario_por_id(3)
-    eliminar_usuario_por_id(16, "admin", "admin123")
+    eliminar_usuario_por_id(3, "admin", "admin123")
     obtener_usuarios()
